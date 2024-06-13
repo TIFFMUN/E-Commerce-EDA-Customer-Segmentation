@@ -1,6 +1,6 @@
-E-Commerce EDA & Customer Segmentation. 
+### E-Commerce EDA & Customer Segmentation. ### 
 
-### Research Questions ###
+*Research Questions*
 - What is the general sales trend?
 - What are the best selling products?
 - What countries are the most active?
